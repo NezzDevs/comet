@@ -71,8 +71,3 @@ Comet is a community-driven project, and your support helps it grow! 🚀
 - ⭐ **Star the repository** here on GitHub
 - ⭐ **Star the add-on** on [stremio-addons.net](https://stremio-addons.net/addons/comet)
 - 🐛 **Contribute** by reporting issues, suggesting features, or submitting PRs
-
-## Web UI Showcase
-<img src="https://i.imgur.com/7xY5AEi.png" />
-<img src="https://i.imgur.com/Dzs4wax.png" />
-<img src="https://i.imgur.com/L3RkfO8.jpeg" />
