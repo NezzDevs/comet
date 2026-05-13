@@ -13,8 +13,7 @@ ENV TZ=UTC \
     UV_HTTP_TIMEOUT=300 \
     PYTHONMALLOC=malloc \
     LD_PRELOAD=/usr/lib/libmimalloc.so.2
-ARG TARGETPLATFORM
-RUN --mount=type=cache,target=/root/.cache/uv,id=uv-${TARGETPLATFORM},sharing=locked uv sync --frozen
+RUN uv sync --frozen
 
 COPY . .
 
